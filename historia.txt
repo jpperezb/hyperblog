@@ -5,3 +5,5 @@ Se esncuentra estudiando un curso de Git y Github e Platzi
 Juan Pablo tiene 23 años y nació en Bogotá
 
 Master 1
+
+Master 2
