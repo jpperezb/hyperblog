@@ -1,6 +1,6 @@
-Es ta es la historia de Juan Pablo Perez
+Esta es la historia de Juan Pablo Perez
 
-Se esncuentra estudiando un curso de Git y Github e Platzi
+Se encuentra estudiando un curso de Git y Github e Platzi
 
 Juan Pablo tiene 23 años y nació en Bogotá
 
