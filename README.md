@@ -7,3 +7,6 @@ Un blog increíble para el curso de Git y Github de Platzi.
 * El flujo de trabajo en Github.
 * Trucos y tips de aprendizaje.
 * Creado por el increíble Juan Pablo
+* Creado por el increíble Juan Pablo.
+* Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas las edades.
